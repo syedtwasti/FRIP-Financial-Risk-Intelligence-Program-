@@ -1,5 +1,6 @@
 # FRIP-Financial-Risk-Intelligence-Program-
 
+Website Link: https://syedtwasti.github.io/FRIP-Financial-Risk-Intelligence-Program-/
 
 FRIP (Financial Risk Intelligence Platform) is an advanced, AI-driven application designed to detect fraudulent financial transactions and analyze potential tax evasion risks. It provides real-time scoring and profiling through a robust machine-learning backend and presents actionable insights via an interactive, geospatial-enabled React dashboard.
 
