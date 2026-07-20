@@ -1,0 +1,10 @@
+Terminal 1 — Start the API:
+
+cd E:\Projects\frip
+venv\Scripts\activate
+uvicorn src.api.main:app --reload --port 8000
+
+Terminal 2 — Start the React dashboard:
+
+cd E:\Projects\frip\frontend
+npm run dev
